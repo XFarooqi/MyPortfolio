@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+    color: black;
+    
+}
+
+    a:visited {
+      color: rgb(241, 151, 16);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    header{
+        width: 100px;
+    
+        border: 20px double red;
+        border-bottom: pink 15px solid;
+        
+        padding: 20px 70px 20px 50px;
+         margin: 20px;
+        text-align: center;
+    }
+    
+
+    
