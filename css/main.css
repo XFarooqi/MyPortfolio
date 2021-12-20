@@ -10,7 +10,7 @@ body{
       text-decoration: none;
     }
     header{
-        width: 100px;
+        width: 600px;
     
         border: 20px double red;
         border-bottom: pink 15px solid;
@@ -18,6 +18,10 @@ body{
         padding: 20px 70px 20px 50px;
          margin: 20px;
         text-align: center;
+        font-size: 35px;
+    }
+    .text{
+        font-size: 25px;
     }
     
 
