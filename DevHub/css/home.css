@@ -1,0 +1,103 @@
+.main-heading {
+    font-size: 4vw;
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.main-heading-dark {
+    color: #CEF2FF;
+}
+
+.sub-heading {
+    font-size: 4vw;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #0089BB;
+    opacity: 1;
+}
+
+.rocket-image {
+    display: flex;
+    justify-content: center;
+    height: 35vw;
+}
+
+.devhub-purpose-container, .community-sponsor-container {
+    border: 1px solid #0000001f;
+    background-color: #f9f9f9;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 13vw;
+}
+
+.devhub-purpose-container-dark, .community-sponsor-container-dark {
+    background-color: #183946;
+    color: #CEF2FF;
+}
+
+.devhub-purpose {
+    padding: 20px;
+    border-radius: 30px;
+    background: #CEF2FF 0% 0% no-repeat padding-box;
+}
+
+.devhub-purpose-dark {
+    background: #183946 !important;
+}
+
+.section-heading {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.devhub-feature-container {
+    margin-top: 7vw;
+    background: url('../resources/feature-gradient-dark.png') 0% 0% no-repeat padding-box;
+    background-size: cover;
+}
+
+@media (min-width: 1168px) {
+    .devhub-feature-description {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+}
+
+.devhub-feature {
+    padding: 40px;
+    background: #e6f8ff7a 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 48px;
+}
+
+.feature-heading-1 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.feature-heading-2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #0089BB;
+}
+
+@media (max-width: 410px) {
+    .feature-img {
+        min-width: 50px;
+        bottom: 15px;
+        position: relative;
+    }
+}
+
+@media (min-width: 595px) and (max-width:870px) {
+    .feature-img {
+        min-width: 50px;
+        bottom: 15px;
+        position: relative;
+    }
+}
