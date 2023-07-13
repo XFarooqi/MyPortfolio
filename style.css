@@ -239,7 +239,7 @@ header .container {
   float: left;
   width: 50vh;
   background-color: #64bcf4;
-  background-image: linear-gradient(to right bottom,rgba(217, 114, 173, 0.39),#64bdf4ac), url(../img/dp1.jpeg);
+  background-image: linear-gradient(to right bottom,rgba(217, 114, 173, 0.39),#64bdf4ac), url(img/dp1.jpeg));
   background-size: cover;
   height: 80vh;
   background-position: top;
